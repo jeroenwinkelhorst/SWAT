@@ -1,0 +1,8 @@
+__title__ = "swat"
+__description__ = "Surface Water Analytical Toolbox"
+__version__ = "0.1.1"
+__author__ = "WM Hackanoon"
+__author_email__ = ""
+__license__ = "Not open source/RHDHV internal only"
+__url__ = "https://dev.azure.com/corporateroot/SWAT/"
+__keywords__ = "swat"
